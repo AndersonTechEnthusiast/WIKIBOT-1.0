@@ -54,13 +54,6 @@ Digite sua pergunta e o bot buscará respostas nos textos extraídos da Wikipedi
 2. O bot identifica palavras-chave relevantes.
 3. Busca e exibe os trechos mais relevantes do texto extraído.
 
-## ⚠️ Possíveis Problemas e Soluções
-| Erro | Solução |
-|------|---------|
-| `ModuleNotFoundError` | Execute `pip install -r requirements.txt` |
-| `ConnectionError` | Verifique sua conexão com a internet |
-| `Arquivo não encontrado` | Certifique-se de que `Parametros.txt` existe |
-
 ## 📝 Melhorias Futuras
 - Adicionar suporte para múltiplas fontes de dados.
 - Implementar salvamento de histórico de consultas.
